@@ -1,36 +1,42 @@
-# AULA_QA_FECAF
+<div align="center">
 
-## Estado atual
+# AULA QA · FECAF
 
-Na branch principal analisada em 2 de novembro de 2026, este repositório contém apenas um README inicial. Não há código de aplicação, testes, manifesto de dependências ou instruções de execução que possam ser verificadas.
+**Repositório em preparação**
 
-O nome do repositório, isoladamente, não permite definir requisitos ou funcionalidades. Esta documentação registra o estado existente sem atribuir recursos ainda não implementados.
+![Status: inicial](https://img.shields.io/badge/status-inicial-64748b?style=flat-square)
 
-## Acesso
+</div>
+
+---
+
+## Sobre
+
+Este repositório está na etapa inicial de organização. O conteúdo disponível é o README; o código e as instruções da aplicação ainda não foram adicionados.
+
+## Estado do projeto
+
+| Item | Situação |
+|---|---|
+| Código da aplicação | Ainda não incluído |
+| Tecnologias | A definir |
+| Execução local | Ainda não disponível |
+| Documentação | [Guia do repositório](DOCUMENTACAO.md) |
+
+## Acessar o repositório
 
 ```sh
 git clone https://github.com/Kakykyyy/AULA_QA_FECAF.git
 cd AULA_QA_FECAF
 ```
 
-O clone fornece o conteúdo disponível, mas não inicia uma aplicação.
+## Próximos passos
 
-## Próximos passos sugeridos
+- Definir o objetivo e o escopo.
+- Adicionar a primeira implementação.
+- Registrar as tecnologias e a configuração do ambiente.
+- Incluir exemplos de uso conforme o projeto evoluir.
 
-Quando o código for incluído, documente:
+## Autor
 
-1. Objetivo, público e escopo.
-2. Tecnologias e versões exigidas.
-3. Instalação, configuração e variáveis de ambiente.
-4. Comandos de execução e testes.
-5. Estrutura de arquivos e fluxo principal.
-6. Limitações, contribuição e licença.
-
-Esses itens são orientações futuras, não funcionalidades existentes.
-
-## Licença
-
-Não há arquivo LICENSE na árvore analisada.
-
----
-Documentação baseada na leitura da branch principal em 2 de novembro de 2026. Os procedimentos não foram executados nesta revisão documental.
+[Kayky Erick · @Kakykyyy](https://github.com/Kakykyyy).
